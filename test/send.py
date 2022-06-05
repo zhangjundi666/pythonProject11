@@ -1,5 +1,11 @@
-while True:
-    try:
-        print((int(input(),16)))
-    except:
-        break
+# -*- coding: utf-8 -*-
+
+print("hello zhang"
+      ""
+      "ewq"
+      "ew"
+      "e"
+      "w"
+      "e"
+      "wedsd"
+      "怎样进行")
